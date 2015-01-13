@@ -16,3 +16,7 @@ Contact Us
 
 Have any questions or suggestions feel free to write at jimmy@varshyl.com (Jimmy Jose)
 http://www.varshylmobile.com/
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/varshylmobile/hamburger/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
